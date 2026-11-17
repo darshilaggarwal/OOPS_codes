@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# VS Code Code Runner temporary files
+tempCodeRunnerFile*
+
+# Build artifacts (optional: un-comment if you prefer not tracking executables)
+# *.dSYM/
